@@ -1,4 +1,4 @@
-# codewars-4
+
 My solution to another codewars 6th kyu kata.
 
 
